@@ -165,7 +165,7 @@ function App() {
             </section>
           </section>
         </section>
-        <section>{/*Embed video */}</section>
+        <section>{/* Embed video */}</section>
         <section>
           <h2>What Can I Design with Swift Publisher 5?</h2>
           <div>
